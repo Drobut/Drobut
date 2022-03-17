@@ -7,7 +7,7 @@ vez mais qualificado para auxiliar no processo de
 evolução da era digital.</p>
 
 
-### Full Stack web developer - Grwodev (in-progress) 
+### Full Stack web developer - Growdev (in-progress) 
 <br>
 
 
