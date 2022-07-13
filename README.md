@@ -16,4 +16,5 @@ evolução da era digital.</p>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 <a href="https://www.w3schools.com/typescript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
 <a href="https://www.w3schools.com/react/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a> 
     
