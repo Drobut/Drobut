@@ -11,9 +11,9 @@ evolução da era digital.</p>
 <br>
 
 
+<a href="https://quarkus.io/" target="_blank"> <img width="43" height="43" src="https://kanoma.fr/blog/wp-content/uploads/2021/06/quarkus_icon_rgb_1024px_default.png"/> </a> 
 <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> </a> 
 <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/color/48/spring-logo.png"/> </a> 
-<a href="https://quarkus.io/" target="_blank"> <img width="43" height="43" src="https://kanoma.fr/blog/wp-content/uploads/2021/06/quarkus_icon_rgb_1024px_default.png"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
